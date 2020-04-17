@@ -1,0 +1,21 @@
+.collapse ul li a{
+    color: firebrick;
+    font-size: 2rem;
+}
+.bidule{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    position: absolute;
+    left: 43%;
+    max-width: auto;    
+   }
+img{
+    align-items: center;
+    max-width: 43rem;
+
+}
+p{
+    font-size: 1rem;
+}
